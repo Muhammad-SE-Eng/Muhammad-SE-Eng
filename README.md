@@ -71,6 +71,8 @@
   <img src="https://github.com/Muhammad-SE-Eng/Muhammad-SE-Eng/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
+![snake animation](https://raw.githubusercontent.com/Muhammad-SE-Eng/Muhammad-SE-Eng/main/snake-dark.svg)
+
 ---
 
 <!-- ========== TROPHY SECTION ========== -->
