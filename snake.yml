@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours (you can adjust)
+    - cron: "0 */12 * * *"   # Runs every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -11,21 +11,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate colored snake & gif
+      - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Muhammad-SE-Eng
           outputs: |
-            dist/github-snake-colored.svg
-            dist/github-snake-colored-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push Snake Files to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
