@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=muhammad-se-dev&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-se-dev&layout=compact&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Muhammad-SE-Eng&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-SE-Eng&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-se-dev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-SE-Eng&theme=tokyonight" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 <!-- ========== TROPHY SECTION ========== -->
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-se-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-SE-Eng&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
