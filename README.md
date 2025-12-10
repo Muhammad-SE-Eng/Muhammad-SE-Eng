@@ -71,7 +71,8 @@
   <img src="https://github.com/Muhammad-SE-Eng/Muhammad-SE-Eng/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
-![snake animation](https://raw.githubusercontent.com/Muhammad-SE-Eng/Muhammad-SE-Eng/output/dist/snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/Muhammad-SE-Eng/Muhammad-SE-Eng/output/snake-dark.svg)
+
 
 ---
 
