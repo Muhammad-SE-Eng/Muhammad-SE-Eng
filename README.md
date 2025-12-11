@@ -9,7 +9,7 @@
 
 <!-- ========== SOCIAL BADGES ========== -->
 <p align="center">
-  <a href="mailto:siyalsb786@gmail.com">
+  <a href="mailto:siyalsb786@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/m1hamxd0" target="_blank">
@@ -24,10 +24,8 @@
 
 <!-- ========== ABOUT ME ========== -->
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Facial Recognition Attendance System (Advanced Version)**
+- 🔭 I’m currently doing **BS in Software Engineering** in **FAST (National University Of Computer And Emerging Sciences)**
 - 🌱 Learning **PHP · Python · MySQL · Backend Development**
-- 👯 Open to collaborate on **OpenCV-based Computer Vision Projects**
-- 🤝 Looking for help with **PHP & MySQL backend development**
 - 💬 Ask me about **C, C++, HTML, CSS, OpenCV, Computer Vision**
 - 📫 Reach me at: **siyalsb786@gmail.com**
 - ⚡ Fun fact: **I love making projects that look simple but work smart 😄**
@@ -66,10 +64,6 @@
 
 <!-- ========== GITHUB SNAKE ANIMATION ========== -->
 ### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Muhammad-SE-Eng/Muhammad-SE-Eng/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
 
 ![snake animation](https://raw.githubusercontent.com/Muhammad-SE-Eng/Muhammad-SE-Eng/output/snake-dark.svg)
 
