@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-SE-Eng&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Muhammad-SE-Eng&theme=tokyonight" />
 </p>
 
 ---
