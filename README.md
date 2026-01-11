@@ -29,6 +29,7 @@
 - 💬 Ask me about **C, C++, HTML, CSS, OpenCV, Computer Vision**
 - 📫 Reach me at: **siyalsb786@gmail.com**
 - ⚡ Fun fact: **I love making projects that look simple but work smart 😄**
+- 🌐 Check out my portfolio: https://muhammad-se-eng.github.io/
 
 ---
 
